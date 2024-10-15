@@ -1,5 +1,6 @@
 # Aseprite Auto Build
-
+> [!IMPORTANT]
+> Clone về dùng ngay
 [![Auto build Aseprite](https://github.com/hardingadonis/aseprite-auto-build/actions/workflows/auto-build.yml/badge.svg)](https://github.com/hardingadonis/aseprite-auto-build/actions/workflows/auto-build.yml)
 ![GitHub contributors](https://img.shields.io/github/contributors/hardingadonis/aseprite-auto-build)
 ![GitHub top language](https://img.shields.io/github/languages/top/hardingadonis/aseprite-auto-build)
