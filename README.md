@@ -10,6 +10,7 @@
 
 > [!IMPORTANT]  
 > Only supports Windows x64
+> Hàng ngon free hãy dùng đi
 
 ## Usage:
 
